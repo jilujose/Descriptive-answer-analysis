@@ -4,6 +4,7 @@ We should scan the answer sheet and provide it to the system with answer key,
 It will extract the text form handwritten answer and evaluate it and assigns mark
 # How to run it
 Run only the file named run.py
+Handwritten script should be scanned and set to 300dpi
 # Packages needed
 you will need nltk and tesseract to run this project
 # Contents of 3 files given
